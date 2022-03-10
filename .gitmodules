@@ -4,4 +4,4 @@
 	url = https://github.com/liruiw/orocos_kinematics_dynamics.git
 [submodule "Sophus"]
 	path = Sophus
-	url = https://github.com/yuxng/Sophus.git
+	url = https://github.com/strasdat/Sophus.git
